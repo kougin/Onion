@@ -8,4 +8,5 @@ public interface BindWrapper {
     void onBind(Object target);
 
     void onUnBind();
+
 }
